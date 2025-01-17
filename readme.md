@@ -1,2 +1,2 @@
 # ETL Pipeline
-![ETL Pipeline](images/airflow api pipeline dag.png)
+<img src="images/ETL diag.png">
